@@ -1,0 +1,41 @@
+.list-class {
+  display: flex;
+  min-width: 100px;
+  margin-top: 20px;
+}
+
+.paragraph {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  color: black;
+  margin-right: 5px;
+}
+.display-row {
+  min-width: 900px;
+  display: flex;
+  margin-left: 40px;
+}
+.logo-image {
+  margin-top: 13px;
+  height: 25px;
+  margin-right: 18px;
+}
+
+.title-class {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  color: black;
+  margin-top: 18px;
+  margin-right: 10px;
+}
+.domain-url {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 13px;
+  color: #475569;
+  margin-top: 18px;
+}
+.button-class {
+  border-width: 0px;
+  background-color: white;
+}
